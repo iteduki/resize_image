@@ -1,0 +1,5 @@
+images/*
+!images/.keep
+
+resized/*
+!resized/.keep
