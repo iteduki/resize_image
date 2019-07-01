@@ -3,3 +3,5 @@ images/*
 
 resized/*
 !resized/.keep
+
+.DS_Store
